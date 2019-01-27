@@ -19,15 +19,15 @@ Then, you can make a purchase by typing in the name of the product you wish to b
 
 Should you choose a product that is not on the list, or enter an inquiry the app does not recognize, the following message will display. 
 
-<img src="invalid-selection.jpg">
+<img src="/images/invalid-selection.jpg">
 
 Also, should the product you purchase be out of stock, or if you order more than what is in stock, the following message will be displayed. 
 
-<img src="out-of-stock.jpg">
+<img src="/images/out-of-stock.jpg">
 
 Finally, if you wish to exit the app, please press Q (upper case) and you will leave the app.  
 
-<img src="quit.jpg">
+<img src="/images/quit.jpg">
 
 
 
